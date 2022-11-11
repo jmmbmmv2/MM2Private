@@ -1,0 +1,6 @@
+--Here can be you ad
+
+wait(0.9)
+    load MM2PrivateLib
+  end
+end
